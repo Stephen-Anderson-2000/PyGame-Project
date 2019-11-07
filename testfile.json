@@ -1,0 +1,1 @@
+{"1": ["AND", 3, 2, true, true, [800, 300], true, 800, 300], "2": ["INPUT", -99, -99, false, false, [499, 486], true, 499, 486], "3": ["INPUT", -99, -99, false, false, [516, 197], true, 516, 197], "4": ["OUTPUT", 1, -99, true, false, [1246, 292], true, 1246, 292]}
